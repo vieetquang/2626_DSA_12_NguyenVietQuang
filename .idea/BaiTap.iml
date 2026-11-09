@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Tuan4/CountingSort/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tuan4/InsertionSortP1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tuan5/Quicksort1-Partition/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tuan5/FindTheMedian/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tuan9/BST-Insertion/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
